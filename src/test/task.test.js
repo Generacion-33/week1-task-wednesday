@@ -1,7 +1,7 @@
 const { exercise1, exercise2, exercise3, exercise4, exercise5, exercise6, exercise7, exercise8, exercise9, exercise10, exercise20, exercise19, exercise18, exercise17, exercise16, exercise15, exercise14, exercise13, exercise12, exercise11, exercise21, exercise22, exercise23, exercise24, exercise25, exercise26, exercise27, exercise28, exercise29, exercise30, exercise31 } = require('../task')
 
 test("exercise1", () => {
-  expect(exercise1).toBe(33)
+  expect(exercise1).toBe("33")
 })
 
 test("exercise2", () => {
